@@ -1,0 +1,10 @@
+# Generated presentation outputs
+slides/**/*.pdf
+slides/**/*.html
+
+
+# Build
+dist/
+
+# Ignore dependencies
+node_modules/
