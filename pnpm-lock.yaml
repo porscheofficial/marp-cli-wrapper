@@ -12,8 +12,8 @@ importers:
   .:
     devDependencies:
       '@marp-team/marp-cli':
-        specifier: ^4.4.0
-        version: 4.4.1(typescript@5.9.3)
+        specifier: ^4.5.0
+        version: 4.5.0(typescript@5.9.3)
       '@types/node':
         specifier: ^24.10.1
         version: 24.10.1
@@ -238,13 +238,13 @@ packages:
   '@jridgewell/sourcemap-codec@1.5.5':
     resolution: {integrity: sha512-cYQ9310grqxueWbl+WuIUIaiUaDcj7WOq5fVhEljNVgRfOUhY9fy2zTvfoqWsnebh8Sl70VScFbICvJnLKB0Og==}
 
-  '@marp-team/marp-cli@4.4.1':
-    resolution: {integrity: sha512-1TQj/yfOcpIEjhmWVEoRjxWcwdQMsp5WsYjla58Cs6GVMW6b1+w6AwW2mi+W5LWdKHOjincmcfNZtyY3Bj9T1w==}
+  '@marp-team/marp-cli@4.5.0':
+    resolution: {integrity: sha512-ZOd9eVwxqx1yL6S6OpEkYKnOTeeWbVCSJaOx8e5lUCcA8jGf7NJU2XkDMkvDTk0wvxwhIdda8zriunhau+Gmrg==}
     engines: {node: '>=18'}
     hasBin: true
 
-  '@marp-team/marp-core@4.3.1':
-    resolution: {integrity: sha512-qBNf+NZTGXAbxFLYax7A409C1HXnvNmxgK28zX+20Nv88plfTI54jkr41s0KJtWRnH/Ni0+1n4AqwNFOw5/gIg==}
+  '@marp-team/marp-core@4.4.0':
+    resolution: {integrity: sha512-YTiS0oIo25KiqjfMtDchTMc/uuFhR48weKNVw4QPPAM/9UQ71QI0JnDkC1qenJSmFPMlXQK72wQ8vlhmgQS3Cg==}
     engines: {node: '>=18'}
 
   '@marp-team/marpit-svg-polyfill@2.1.0':
@@ -1498,9 +1498,9 @@ snapshots:
 
   '@jridgewell/sourcemap-codec@1.5.5': {}
 
-  '@marp-team/marp-cli@4.4.1(typescript@5.9.3)':
+  '@marp-team/marp-cli@4.5.0(typescript@5.9.3)':
     dependencies:
-      '@marp-team/marp-core': 4.3.1
+      '@marp-team/marp-core': 4.4.0
       '@marp-team/marpit': 3.2.2
       chokidar: 4.0.3
       cosmiconfig: 9.0.2(typescript@5.9.3)
@@ -1517,7 +1517,7 @@ snapshots:
       - typescript
       - utf-8-validate
 
-  '@marp-team/marp-core@4.3.1':
+  '@marp-team/marp-core@4.4.0':
     dependencies:
       '@marp-team/marpit': 3.2.2
       '@marp-team/marpit-svg-polyfill': 2.1.0(@marp-team/marpit@3.2.2)

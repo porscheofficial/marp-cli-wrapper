@@ -11,7 +11,7 @@
     "type-check": "tsc --noEmit"
   },
   "devDependencies": {
-    "@marp-team/marp-cli": "^4.4.0",
+    "@marp-team/marp-cli": "^4.5.0",
     "@types/node": "^24.10.1",
     "husky": "^9.1.7",
     "lint-staged": "^17.0.0",
