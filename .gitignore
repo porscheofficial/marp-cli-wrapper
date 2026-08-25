@@ -6,5 +6,8 @@ slides/**/*.html
 # Build
 dist/
 
-# Ignore dependencies
+# Dependencies
 node_modules/
+
+# IDE
+.idea/
