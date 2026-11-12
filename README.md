@@ -1,3 +1,7 @@
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+> With AI, presentations are now straightforward to create as multi-page HTML or in PowerPoint, so this wrapper is no longer needed.
+
 # Marp CLI Wrapper
 
 A Node.js wrapper for [Marp CLI](https://marp.app/) designed for teams and organizations who want to create and share presentations quickly using Markdown, with consistent branding and reusable themes.
